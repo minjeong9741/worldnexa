@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/worldnexa/static/css/main.49b7752b.css",
+    "main.js": "/worldnexa/static/js/main.c2c3388f.js",
+    "static/js/453.99a55f81.chunk.js": "/worldnexa/static/js/453.99a55f81.chunk.js",
+    "index.html": "/worldnexa/index.html",
+    "main.49b7752b.css.map": "/worldnexa/static/css/main.49b7752b.css.map",
+    "main.c2c3388f.js.map": "/worldnexa/static/js/main.c2c3388f.js.map",
+    "453.99a55f81.chunk.js.map": "/worldnexa/static/js/453.99a55f81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49b7752b.css",
+    "static/js/main.c2c3388f.js"
+  ]
+}
